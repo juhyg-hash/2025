@@ -3,5 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("코드수정");
+
+        System.out.println("고장");
     }
 }
